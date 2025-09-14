@@ -16,7 +16,7 @@ import asyncio
 from langchain_cohere import CohereEmbeddings, ChatCohere
 
 load_dotenv()
-os.environ["COHERE_API_KEY"] = "H0DYJaoOVlec2NzceEUOLax1Re4SeTm82dCvV7kD"
+os.environ["COHERE_API_KEY"] = "H0DYJaoOVlec2NzceEUOLax1Re4SeTm82dCv"
 
 app = FastAPI()
 
