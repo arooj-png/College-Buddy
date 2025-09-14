@@ -1,0 +1,8 @@
+### Ask a simple question
+POST http://localhost:8000/api/query
+Content-Type: application/json
+
+{
+  "question": "When is the fee deadline?",
+  "mood": "supportive"
+}
