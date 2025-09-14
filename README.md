@@ -87,7 +87,7 @@ uvicorn main:app --reload
 Just open frontend/index.html in your browser.
 
 📝 Notes
-Backend runs on http://127.0.0.1:8000
+Backend runs on http://localhost:5173
 
 Frontend talks to backend through /api/query
 
